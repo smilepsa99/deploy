@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "3미니스타.html"
+status = 200
